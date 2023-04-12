@@ -11,4 +11,4 @@ poetry install
 
 ## Usage
 * New terminal: `poetry run python webhooks/app.py`
-* New terminal: `ngrok http 8000`
+* New terminal: `ngrok http 5000`
