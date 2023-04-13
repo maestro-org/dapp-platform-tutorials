@@ -1,7 +1,7 @@
 # Transaction Manager Webhooks
 
 ## Requirements
-* [Poetry](https://python-poetry.org/docs/)
+* [Poetry](https://python-poetry.org/docs/#installation)
 * [Ngrok](https://ngrok.com/docs/getting-started/)
 
 ## Installation
