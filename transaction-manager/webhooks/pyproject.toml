@@ -6,7 +6,7 @@ authors = ["Varderes Barsegyan <vbarsegyan@gomaestro.org>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 flask = "^2.2.3"
 
 
